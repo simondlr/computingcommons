@@ -9,7 +9,7 @@ The book is intended for people who've just heard about Bitcoin and the blockcha
 
 ## Leanpub.
 
-A Leanpub link will soon go online where you can pre-order the book! For the writing proces, leanpub will be used. Once done, I will make the book available to be bought in Bitcoin (and probably any other reasonably traded altcoin out there). I will also be selling the book on OpenBazaar at a discount. Pre-sale + launch price will be $9.99, after which it will be $15 from there on onwards.
+During the writing proces, [leanpub](https://leanpub.com/theblockchain) will be used. Once done, I will make the book available to be bought in Bitcoin (and probably any other reasonably traded altcoin out there). I will also be selling the book on OpenBazaar at a discount. Pre-sale + launch price will be $9.99, after which it will be $15 from there on onwards.
 
 ## Contributions.
 
