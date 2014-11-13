@@ -20,3 +20,7 @@ I'm writing this book in the open, following the [lean publishing manifesto](htt
 This book is written under [Creative Commons Attribution-NonCommercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US). You are free to copy, redistribute, remix, transform and build upon it, but not for commercial purposes. If you do, appropriate credit is required.
 
 "The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things, a map of all the ways in which the present can reinvent itself." - Steven Johnson.
+
+## Donate
+
+You can donate BTC here if you want to do so: 1JFtCddNcHTjLtCDEPRYDCToxry1JLhWPR
