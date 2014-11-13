@@ -11,6 +11,20 @@ The book is intended for people who've just heard about Bitcoin and the blockcha
 
 During the writing proces, [leanpub](https://leanpub.com/theblockchain) will be used. Once done, I will make the book available to be bought in Bitcoin (and probably any other reasonably traded altcoin out there). I will also be selling the book on OpenBazaar at a discount. Pre-sale + launch price will be $9.99, after which it will be $15 from there on onwards.
 
+## Planned sections
+
+The rough outline of the book will follow an exploration of blockchain tech, building upon previous chapters and getting more interesting and complex as it progresses. There's a lot of overlap, so it might change. Here's the current planned progress:
+
+Introduction (What is Bitcoin/Blockchain)
+Decentralized Finance (BTC, Multi-sig, Payment channels, etc)
+Decentralized Property (Colored coins, Smart property, Namecoin, DNSChain, Proof of existence, etc)
+Decentralized Marketplaces (Chapter almost specifically on OpenBazaar and it's possibilities)
+Decentralized Autonomous Organizations (Ethereum, Appcoins, Republic of DOUG, deodands, etc)
+Decentralized AI & Agents (Simple agents to complex ones. From random darknet shopper to decentralized sensing as a service AI)
+Decentralized Law ("state as a service", opt-in consumer protected smart contracts, proof of sacrifice, passports, etc) //a lot of this might already have been covered in other chapters, so will see about this one.
+Decentralized Virtual Reality (Blockchain as consensus backbone for metaverses, Engi)
+The Adjacent Possible (conclusions)
+
 ## Contributions.
 
 I'm writing this book in the open, following the [lean publishing manifesto](https://leanpub.com/manifesto). Any contributions are welcome. I won't promise that they will be included, but will consider all changes! All contributors will get an honorable mention in the book. If anyone wants to contribute the front-page design of the book, please get in contact!
