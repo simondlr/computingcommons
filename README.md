@@ -15,15 +15,15 @@ During the writing proces, [leanpub](https://leanpub.com/theblockchain) will be 
 
 The rough outline of the book will follow an exploration of blockchain tech, building upon previous chapters and getting more interesting and complex as it progresses. There's a lot of overlap, so it might change. Here's the current planned progress:
 
-Introduction (What is Bitcoin/Blockchain)
-Decentralized Finance (BTC, Multi-sig, Payment channels, etc)
-Decentralized Property (Colored coins, Smart property, Namecoin, DNSChain, Proof of existence, etc)
-Decentralized Marketplaces (Chapter almost specifically on OpenBazaar and it's possibilities)
-Decentralized Autonomous Organizations (Ethereum, Appcoins, Republic of DOUG, deodands, etc)
-Decentralized AI & Agents (Simple agents to complex ones. From random darknet shopper to decentralized sensing as a service AI)
-Decentralized Law ("state as a service", opt-in consumer protected smart contracts, proof of sacrifice, passports, etc) //a lot of this might already have been covered in other chapters, so will see about this one.
-Decentralized Virtual Reality (Blockchain as consensus backbone for metaverses, Engi)
-The Adjacent Possible (conclusions)
+Introduction (What is Bitcoin/Blockchain)  
+Decentralized Finance (BTC, Multi-sig, Payment channels, etc)  
+Decentralized Property (Colored coins, Smart property, Namecoin, DNSChain, Proof of existence, etc)  
+Decentralized Marketplaces (Chapter almost specifically on OpenBazaar and it's possibilities)  
+Decentralized Autonomous Organizations (Ethereum, Appcoins, Republic of DOUG, deodands, etc)  
+Decentralized AI & Agents (Simple agents to complex ones. From random darknet shopper to decentralized sensing as a service AI)  
+Decentralized Law ("state as a service", opt-in consumer protected smart contracts, proof of sacrifice, passports, etc) //a lot of this might already have been covered in other chapters, so will see about this one.  
+Decentralized Virtual Reality (Blockchain as consensus backbone for metaverses, Engi)  
+The Adjacent Possible (conclusions)  
 
 ## Contributions.
 
