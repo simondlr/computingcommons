@@ -18,7 +18,7 @@ The rough outline of the book will follow an exploration of blockchain tech, bui
 Introduction (What is Bitcoin/Blockchain)  
 Decentralized Finance (BTC, Multi-sig, Payment channels, etc)  
 Decentralized Property (Colored coins, Smart property, Namecoin, DNSChain, Proof of existence, etc)  
-Decentralized Marketplaces (Chapter almost specifically on OpenBazaar and it's possibilities)  
+Decentralized Marketplaces (Chapter almost specifically on OpenBazaar and its possibilities)  
 Decentralized Autonomous Organizations (Ethereum, Appcoins, Republic of DOUG, deodands, etc)  
 Decentralized AI & Agents (Simple agents to complex ones. From random darknet shopper to decentralized sensing as a service AI)  
 Decentralized Law ("state as a service", opt-in consumer protected smart contracts, proof of sacrifice, passports, etc) //a lot of this might already have been covered in other chapters, so will see about this one.  
