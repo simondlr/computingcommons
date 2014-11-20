@@ -20,7 +20,11 @@ Another blockchain-based system that allows people to send any money to someone 
 
 ## P2P Lending
 
-todo
+Kiva.org is a site that allows people from anywhere in the world to loan money to others from as little as $25. They have field partners that veto borrowers and setup loan agreements. The type of borrowers are usually people in need of small capital, such as buying a new goat when one has died. The great thing about Kiva is that it allows people fund others who is dependent on low amounts such as $100 to achieve something. As a lender, you might get back some modest return on that, the reward is more the fact that you could help a budding entrepreneur in a poor community take the leap faster by solving capital constraints. The same limitations however hold as the section on remittances. If you want to lend money to someone (especially on small margins like that), the fees are gobbled up. Additionally, while Kiva's job of working with their partners to vet borrowers is useful, it's still reliant on Kiva to function (which adds additional organisational and transactional complexity). In the Bitcoin space, there are companies that work in the p2p lending spaces, such as BTCJam. For example, no fees are charged to lenders.
+
+However, what's potentially more exciting is the possibility of recreating a fully p2p lending market that functions only with Bitcoin. Luckily, you can. You can remove almost everything Kiva does, except having a more reputable source of borrowers (however this could change as well as I'll explain later). When you crowdfund something, it's called an assurance contract. It is usually used in the creation of public goods where people pledge towards this good, in the hopes that when enough people have pledged, the money can then be put forth for the creation of this public good. An example is a lighthouse. Everyone can use the lighthouse once it is built, so no one wants to pay for it on their own. Several naval institutions decide to pool together to fund this (for the benefit of everyone). In Bitcoin, you can similarly write a transaction that once a certain goal is met, all the transactions are pooled together and sent to the person or institution developing that project. Mike Hearn, a Bitcoin Core developer and creator of BitcoinJ (one of the most popular Bitcoin libraries) is finishing up exactly this project (not surprisingly called: "Lighthouse").
+
+This allows a project maintainer to set an amount that is required to be pledged, and then find others to help fulfill it. At any time a person can remove their pledge (before the goal is met).
   
 ## Micropayments
 
@@ -38,9 +42,15 @@ As you may have noticed, I have already mentioned two other cryptocurrencies: na
   
 What's important here to take away from altcoin experiments is that we will learn over time whether having only one money makes sense from a social perspective, or whether there'll exist a power-law distribution (1-3 huge currencies + a massive long tail). However: from a technical perspective, altcoins have started morph away from just being money and using the blockchain for new innovative uses. A great example is Namecoin. It creates a distributed key/value store, which basically turns into a registry anyone can edit. I'll touch upon it in the next chapter. Altcoins will rise, die and fail, and we will probably be better off for it, simply because we have alternatives and "can" choose if we want to.  
 
-## Sidechains & Treechains
+## Sidechains
   
-todo
+A variation of the altcoin concept is a sidechain. The idea behind it is that you would want the experimental nature of altcoins, but use the same token of "scarcity" that was created in Bitcoin. Large changes to Bitcoin itself is a very, very methodical and potentially dangerous thing. For a system that thrives on maintaining consensus, any small bug could rapidly unravel it. In March 2013, a small bug was introduced when a change was committed that used a different a way to store the data on a local computer. This led to older and newer versions of the software to not accept a certain block, causing a "fork in the chain". There was thus a different consensus on what the "state" of the ledger was. It's like coming to your post-office box, ready to take out some mail, and discovering that the letter your friend sent to you wasn't delivered to this post-office box, but to a completely other one.
+
+Another problem with making changes is that some changes are what they call "hard forks". This requires a deep change in which almost everyone *must* switch (not just the miners, but the users themselves as well). Now, you can imagine trying to coordinate that? It's like changing how you write the postal address information. Your grandma living in some quiet country town, never ever got the memo, and she'll only discover that her post she sends to her grandkids never arrives. This is avoided at all costs.
+
+So, making changes is hard work that requires a lot of rigorous testing (especially). You don't also want to recreate another altcoin just to experiment, since you don't have the same security as you would if you just used Bitcoin. The way this is solved, is to have a sidechain: a blockchain that have different rules, and uses, but uses Bitcoin. In other words, you create a way for blockchains to interact with it each other. How this is done is quite clever.
+
+You provably lock away your Bitcoin through a special script, and then set certain requirements that have to be met for it to be unlocked again. If you can prove those coins are locked, it sort of acts like gold in a bank. You get an IOU that points to some gold that is locked away somewhere (although a lot more secure than gold + paper). Another way to explain it, is like teleporting somewhere. But instead of moving your body to a new place, your old body is simply cryogenically frozen in the teleport machine, and a clone is created on the other side. Once you go back to your old world through the teleporter, that clone is destroyed and all its aging + memory is mapped to your old body and revived on the spot.
 
 ## Financial Smart Contracts
   
