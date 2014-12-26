@@ -15,12 +15,12 @@ During the writing proces, [leanpub](https://leanpub.com/theblockchain) will be 
 The rough outline of the book will follow an exploration of blockchain tech, building upon previous chapters and getting more interesting and complex as it progresses. There's a lot of overlap, so it might change. Here's the current planned progress:
 
 Introduction (What is Bitcoin/Blockchain)  
-Decentralized Finance (DRAFT done. See manuscript.)
-Decentralized Property (DRAFT done. See manuscript.)
-Decentralized Trade (Chapter almost specifically on OpenBazaar and its possibilities)  
+Decentralized Finance (DRAFT done. See manuscript.)  
+Decentralized Property (DRAFT done. See manuscript.)  
+Decentralized Trade (Chapter almost specifically on OpenBazaar and its possibilities)   
 Decentralized Autonomous Organizations (Ethereum, Appcoins, Republic of DOUG, deodands, etc)  
 Decentralized AI & Agents (Simple agents to complex ones. From random darknet shopper to decentralized sensing as a service AI)  
-Decentralized Law ("state as a service", opt-in consumer protected smart contracts, proof of sacrifice, passports, etc)
+Decentralized Law ("state as a service", opt-in consumer protected smart contracts, proof of sacrifice, passports, etc)  
 Decentralized Alternate Reality (Blockchain as consensus backbone for metaverses, Engi)  
 The Adjacent Possible (conclusions)  
 

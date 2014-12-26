@@ -10,10 +10,10 @@ With newer services such as AirBNB, the trust component gets shifted towards the
 
 At the end of the day if you are in the process of providing a platform for trade, you basically have to answer the following questions:
 
-How well do I put buyers and sellers together?
-How do I make sure the participants trust each other? (Helping to build reputation, or borrowing reputation)
-How do I facilitate exchange? (Do I provide escrow? Dispute resolution?)
-What are the fees I charge for my services?
+How well do I put buyers and sellers together?  
+How do I make sure the participants trust each other? (Helping to build reputation, or borrowing reputation)  
+How do I facilitate exchange? (Do I provide escrow? Dispute resolution?)  
+What are the fees I charge for my services?  
 
 ## Silk Road
 
