@@ -90,6 +90,3 @@ There's probably a lot more you can do with the idea of a "payment plugin". when
 
 It's fitting that one of the last examples in this chapter ends with describing Bitcoin as a "distributed timestamp server". Being able to verify the order of ownership (over time) is what makes some of the more exciting use cases possible. We've seen what becomes possible when you want to use Bitcoin (& the blockchain) for moving around money in new ways. Using the blockchain only for decentralized finance would be like saying you have a set of post-office boxes specifically made just storing bills. Luckily we know it can hold so much more (like a receipt to collect a package, or a letter from grandma which still doesn't get e-mail unfortunately).
 
-TODO in this chapter.
-- Add in proof-of-reserve somewhere. Auditing.
-- Include derivatives such as StableCoin, Tether, or CFD to create float fiat assets on blockchain.
