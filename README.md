@@ -17,7 +17,7 @@ The rough outline of the book will follow an exploration of blockchain tech, bui
 Introduction (What is Bitcoin/Blockchain)  
 Decentralized Finance (DRAFT done. See manuscript.)  
 Decentralized Property (DRAFT done. See manuscript.)  
-Decentralized Trade (Chapter almost specifically on OpenBazaar and its possibilities)   
+Decentralized Trade (Chapter almost specifically on OpenBazaar and its possibilities). DRAFT done. See manuscript.
 Decentralized Autonomous Organizations (Ethereum, Appcoins, Republic of DOUG, deodands, etc)  
 Decentralized AI & Agents (Simple agents to complex ones. From random darknet shopper to decentralized sensing as a service AI)  
 Decentralized Law ("state as a service", opt-in consumer protected smart contracts, proof of sacrifice, passports, etc)  
@@ -30,7 +30,7 @@ I'm writing this book in the open, following the [lean publishing manifesto](htt
 
 ## Licence
 
-This book is written under [Creative Commons Attribution-NonCommercial 3.0 Unported](http://creativecommons.org/licenses/by-nc/3.0/deed.en_US). You are free to copy, redistribute, remix, transform and build upon it, but not for commercial purposes. If you do, appropriate credit is required.
+This book is written under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to copy, redistribute, remix, transform and build upon it, but not for commercial purposes. If you do remix, transform or build, appropriate credit is required.
 
 "The adjacent possible is a kind of shadow future, hovering on the edges of the present state of things, a map of all the ways in which the present can reinvent itself." - Steven Johnson.
 
