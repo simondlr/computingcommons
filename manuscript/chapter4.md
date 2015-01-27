@@ -2,7 +2,7 @@
 
 When Instagram was sold to Facebook in April 2012, they created $1 billion of value in less than 2 years (from October 2010), and they only had a team of 13 people. With costs of technology going down, and access to global markets increase, each person's capability to enact change and create immense wealth grows dramatically. I was always wondering when we would see the first, 1 person, $1 billion company... until renowned venture capital Balaji Srinivasan claimed that the first zero person company already existed: Bitcoin. Once set up and launched, its existence required no one to run it anymore. The protocol creates constrained internal capital ("bitcoin") that quantifies the usefulness of the network. Its "employees" are similar to app developers: bootstrapping off a platform to create value for themselves The internal capital simultaneously functions as its token to be able to engage with the product (the Bitcoin network and blockchain). To use a real-world example: imagine that you could only buy Apple products with Apple shares. It's the combination of the token of value, and the token of use that means Bitcoin was (arguably) the first decentralized autonomous organisation (DAO).
 
-There are various ways in which you can define what a DAO requires in order to be called a DAO. Different individuals and companies have different ideas on how it extends from its core. However, what underlies all the definitions is that ownership and control is managed in a distributed manner (usually through blockchain technology). This core is governed by codified rules and like normal organizations form around a common purpose.
+There are various ways in which you can define what a DAO requires in order to be called a DAO. Different individuals and companies have different ideas on how it extends from its core. However, what underlies all the definitions is that ownership and control is managed in a distributed manner (usually through blockchain technology). This core is governed by coded rules and like normal organizations form around a common purpose. If at any point in time, if the humans who were involved with it, disappear, the DAO is supposed to be able to continue delivering its services. In other words, domain names or servers won't turn off due to credit cards turning off (for example).
 
 This field is quite nascent and new experiments have started being produced to build these new styles of organizations.
 
@@ -26,6 +26,22 @@ They are fiduciaries – acting solely in their customers’ and shareholders' i
 They are self-regulating – they robotically obey their own rules.  
 They are incorruptible – no one can exercise seductive or coercive influence over them.  
 They are sovereign – over their digital resources (but don't have legal capacity)."
+
+((Add Vitalik's thoughts))
+((Add Casey Kuhlmann thoughts))
+((Find more opinions/ideas))
+
+As you can see based on all the 
+
+## Appcoins
+
+((Check who popularised this term. Was it Naval Ravikant?))
+
+## Non-token DAOs
+
+
+
+## Why DAOs?
 
 ## Bootstrapping DAOs
 
