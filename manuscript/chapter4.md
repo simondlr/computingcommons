@@ -2,7 +2,7 @@
 
 When Instagram was sold to Facebook in April 2012, they created $1 billion of value in less than 2 years (from October 2010), and they only had a team of 13 people. With costs of technology going down, and access to global markets increase, each person's capability to enact change and create immense wealth grows dramatically. I was always wondering when we would see the first, 1 person, $1 billion company... until renowned venture capital Balaji Srinivasan claimed that the first zero person company already existed: Bitcoin. Once set up and launched, its existence required no one to run it anymore. The protocol creates constrained internal capital ("bitcoin") that quantifies the usefulness of the network. Its "employees" are similar to app developers: bootstrapping off a platform to create value for themselves The internal capital simultaneously functions as its token to be able to engage with the product (the Bitcoin network and blockchain). To use a real-world example: imagine that you could only buy Apple products with Apple shares. It's the combination of the token of value, and the token of use that means Bitcoin was (arguably) the first decentralized autonomous organisation (DAO).
 
-There are various ways in which you can define what a DAO requires in order to be called a DAO. Different individuals and companies have different ideas on how it extends from its core. However, what underlies all the definitions is that ownership and control is managed in a distributed manner (usually through blockchain technology). This core is governed by coded rules and like normal organizations form around a common purpose. If at any point in time, if the humans who were involved with it, disappear, the DAO is supposed to be able to continue delivering its services. In other words, domain names or servers won't turn off due to credit cards turning off (for example).
+There are various ways in which you can define what a DAO requires in order to be called a DAO. Different individuals and companies have different ideas on how it extends from its core. However, what underlies all the definitions is that ownership and control is managed in a distributed manner (usually through blockchain technology). This core is governed by coded rules and like normal organizations form around a common purpose. If at any point in time, if the humans who were involved with it, disappear, the DAO is supposed to be able to continue delivering its services. In other words, domain names or servers won't turn off due to credit card failure (for example).
 
 This field is quite nascent and new experiments have started being produced to build these new styles of organizations.
 
@@ -37,9 +37,11 @@ As you can see based on all the
 
 ((Check who popularised this term. Was it Naval Ravikant?))
 
+An "appcoin" is a specific form of DAO where the token is explicitly used to consume the service it provides. The rules of the blockchain specify narrowly what the token can be redeemed for. They might not necessarily confer voting rights. More often that not, appcoins are used in DAOs where an internal record is required to keep track, because as is the case with Bitcoin, the token acts as spam control and as the exchange token. While Bitcoin can be classified as an appcoin, it is usually a name given to blockchain DAOs that focus on non-currency related projects (the focus on being an "app"). These are things such as Counterparty (which specialises in the issuance of tokens), or Factom (which spesialises in being a notary layer).
+
 ## Non-token DAOs
 
-
+((add in DOUG here))
 
 ## Why DAOs?
 
@@ -48,5 +50,9 @@ As you can see based on all the
 ## Changing DAOs
 
 The interesting thing about DAOs, is that ownership is a lot more fluid. If it is imagined as a "company", then it allows for people to invest any stage they wish, and with any kind of risk they wish. At any stage during Bitcoin's lifecycle, you could've bought any amount you wish. It's as if when the project was created, it had an IPO. It allows non-accredited investors to take part in a project's success much earlier than with normal companies. From a consumer protection side, it does mean that scams could exist, however a lot of worries about it can be mitigated because the project's code is often open-source, and the tokens itself cannot be faked or forged (unlike in the past when share certificates could be faked).
+
+Since, once a DAO is set up, it should be able to run continue in its current direction without human involvement, it is sometimes required (in the case of a problem), or wished (in the case of a desired improvement) to change it. Once this change is implemented, it continues along its "autonomous" path. For DAOs in which the token does not represent any voting rights, the direction it changes to is indirectly voted on by the participants who are tasked with keeping the blockchain alive. In Bitcoin's case, the miners always have the veto rights. If they believe Bitcoin is headed for ruin and don't want to adopt a measure put forth by the community, the community can't do anything about it. However, it is self-regulating check: because if the miners don't follow the community's wishes, it might reduce their reputation, clout and financial reward. For example: a short while, when Bitcoin's first halving occurred at the end of 2012, there was discussion amongst some participants to not reduce the reward (which luckily didn't happen). This sort of change is more akin to "survival of the fittest". Both variants are out there in the wild. If there isn't consensus before the change is implemented, there could easily be 2 variants running side by side as participants fight to let a certain side win. Although this could happen, the fact that such conflict exists in the first place is not very welcoming and reduces confidence in the project. It is usually avoided at all costs, such than when a change is required, a relatively large community based consensus is reached. It is important to note here, that in this case, all communication happens "off-chain": it is not done through the blockchain itself. People discuss this on Github, forums, email, chatrooms, etc.
+
+((voting changes in DAOs))
 
 rough list to cover: Bitcoin, Ethereum, Tenets of DAOS, Appcoins, Eris, Doug, CPDAOs, "Deodands" (as intro to AI chapter).
