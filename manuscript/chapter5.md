@@ -1,6 +1,32 @@
 # Decentralized Agents
 
-One of the biggest
+Our bodies are an ecosystem. Much of what we think we are, is actually a combination of organisms working in symbiosis. We have bacteria living in our bodies which without we wouldn't be able to thrive, and vice versa ((source)). The parts that come together to make us who we are can be described as plenty of simple systems, following simple rules, that result in an emergent whole. We are not independent of the systems around us. When we look at artifical intelligence, and especially how it has been portrayed by media and scif-fi, it is often this monolothic entity. In the movie, "I, Robot", in a massive skyscraper there is this big brain somewhere that powers robots across the world. Similarly, the famous "SkyNet" from the Terminator series, is distributed, but thinks centrally. It can't be shut down, since it is only cutting off a limb of a hydra, but it is still "monolithic" in design. It is not indepedent parts, coming together to form a conclusion that humanity is to be destroyed, but it is "one entity" built up of many parts, that do so. It is distributed, not decentralized: there is a "hub".
+
+When we look at things like a swarm of birds, we sometimes imagine and wonder how they all "work" together to fly as a flock like that. It seems like there is some center, while there is not. A swarm moves with only local information: the combination of which lends itself to the fact that the flock eventually ends where it plans to go, even if there is some chaos in the process. A bird only takes in what the few birds around it is doing, and decides from that where to fly (along with its own desires). The result is an emergent flock, acting only on local information, heading towards its destination.
+
+The AI we will see will be a swarm that when we look at it from a bigger picture will make us believe we see truly artifical intelligence, in the same way that we as biological entities can say we are "intelligent". Michael Jordan, a famous machine learning researcher, said ((insert quote about it won't be what we imagine)). Bitcoin & the blockchain will help us to build this. ((insert quote about Ethereum and fungus)).
+
+## Blockchain in AI
+
+I see the blockchain helping 2 ways: establishing consensus & helping with independent machine-to-machine value transfer.
+
+### Value transfer
+
+One of my favourite quotes in this space, is when Richard Brown (from IBM) said in an interview: "On the blockchain, no one knows you are a fridge". It's funny and correctly describes what becomes possible. In the future, we might very describe humanity (and its relationship to technology) in terms of pre-blockchain and post-blockchain, simply for one reason. It became not only for us humans to transact without a 3rd-party, but it also became possible for a machine to transact with another machine without a 3rd-party, and more importantly without the requirement of a human in the process.
+
+### Consensus
+
+((Talk about article on "friendly" AI))
+
+## Narrow AI
+
+Simple agents with simple rules, acting indepdently & autonomously.
+
+((insert random darknet shopper here))
+
+## The Emergent AI
+
+((intro to SaaS))
 
 ## Sensing as a Service
 
@@ -30,4 +56,6 @@ How do you turn these deep minds off? They either run out of money (Bitcoin is e
 
 Arguably (and perhaps inevitably?), a distributed AI like the above will exist. It's not all doom and gloom though. Emergent AI-esque, sensing DAOs (that's a mouthful), have use cases which we currently can't solve. ((Start talking about Deodands)). Remember, a "deep mind" can only continue to function as long as it has enough
 
-rought list to cover: narrow AI. Programs can earn money (equal standing in value). Random Darknet Shopper.
+((Reference Polemitis example of a super-bug <-> AI comparison))
+((Patrick Deegan discussion on trusting AI))
+
