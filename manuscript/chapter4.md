@@ -18,7 +18,7 @@ The blockchain helps with organising in a few ways. The first is that it becomes
 
 The second step revolves around using the blockchain to bake in business processes. A lot of our business processes are already digital, and most of it can be put into a blockhain. The reasons why you would do this, is as follows: 1) you have a trail of history. A blockchain contains a trace of how its information has changed since inception. And secondly, there is value in having unforgeable chain of events that can't be easily reversed. This might not make sense in terms of using a fully public blockchain like Bitcoin, since it will be expensive and not entirely useful to run several business processes over it. However, the design of a blockchain can be changed to have these beneficial features. Companies such as Eris Industries, which I will touch upon later, helps with regards to this.
 
-Spawning from capturing business processes through smart contracts on a blockchain, you can additionally capture the transaction trail as well (as detailed in Chapter 1).
+Spawning from capturing business processes through smart contracts on a blockchain, you can additionally capture the transaction trail as well (as detailed in Chapter 1). Combining all these parts, creates a new framework for managing organisations that has decent enough clout to not require access to jurisdictional support. It's not saying that jurisdictional support is useful, but it does make it possible to bootstrap natural world-wide organisations, or even start local organisations. It can either be fully supra-national, or it could use some of the automated features & security that a blockchain provides.
 
 --OLD STUFF. To be refactored--
 
