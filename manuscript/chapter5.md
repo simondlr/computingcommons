@@ -4,7 +4,7 @@ Our bodies are an ecosystem. Much of what we think we are, is actually a combina
 
 When we look at things like a swarm of birds, we sometimes imagine and wonder how they all "work" together to fly as a flock like that. It seems like there is some center, while there is not. A swarm moves with only local information: the combination of which lends itself to the fact that the flock eventually ends where it plans to go, even if there is some chaos in the process. A bird only takes in what the few birds around it is doing, and decides from that where to fly (along with its own desires). The result is an emergent flock, acting only on local information, heading towards its destination.
 
-The AI we will see will be a swarm that when we look at it from a bigger picture will make us believe we see truly artifical intelligence, in the same way that we as biological entities can say we are "intelligent". Michael Jordan, a famous machine learning researcher, said ((insert quote about it won't be what we imagine)). Bitcoin & the blockchain will help us to build this. ((insert quote about Ethereum and fungus)).
+The AI we will see will be a swarm that when we look at it from a bigger picture will make us believe we see truly artifical intelligence, in the same way that we as biological entities can say we are "intelligent". Michael Jordan, a famous machine learning researcher, said ((insert quote about it won't be what we imagine)). Bitcoin & the blockchain will help us to build this.
 
 ## Blockchain in AI
 
@@ -26,15 +26,13 @@ Simple agents with simple rules, acting indepdently & autonomously.
 
 ## The Emergent AI
 
-((intro to SaaS))
+"Ethereum won't enable computers to become as socially intelligent as primates, but it might make them as emergent as funghi and ants—which in terms of biomass are the dominant species on the planet." Alex Van Der Sande, a developer on Ethereum, responded to the question about Ethereum's potential to bring forth a decentralized AI clouds. It's a legitimate concern, especially considering that Ethereum is regarded as a "computer", and add the fact that it is decentralized, combines memes that lead to the idea of a decentralized AI... a computer that could give rise to an emergent AI. There's many ways in which this can happen. One such idea is when you start incentivizing the use of sensors & information into an open protocol.
 
 ## Sensing as a Service
 
 We have a constant need to measure things, and we are becoming hungrier by the day: whether it is purely the curiosity to know what the weather is like in Amsterdam right now, or whether that data feed will form part of a trusted pipe for a prediction market. ((insert authors)) created an initial blueprint for a sensing market using the Bitcoin blockchain. Imagine you have a sensing device. Someone from elsehwere in the world can pay the device directly with Bitcoin and in return receive the information. ((flesh out what was said in the paper))
 
 ## A Blueprint for a decentralized AI
-
-((quote on elon, michael jordan))
 
 Following on from that paper, I devised a rudimentary start to what a possible decentralized AI could look like: and it starts with the usefulness of a decentralized internet-of-things. Paying devices from across the world, directly with Bitcoin to fulfill certain roles. I would like to flesh out that design in this chapter to explain why the blockchain is useful here.
 
