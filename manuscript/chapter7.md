@@ -10,6 +10,8 @@ The blockchain can help bring forth these alternate realities as legitimate aven
 
 ## Digital Money
 
+The first, important way in which Bitcoin can influence alternate realities is by using it as a currency in those realities. By name, "digital" is both usable in the physical world as well is in the "virtual".
+
 ((Section on Bitcoin as not just state-less money, but reality-less money. A MMO could have just Bitcoin. Segway into issues (still somewhat centralized). Segway into fully decentralized realities)
 
 ## Blockchains as Reality Mediators
