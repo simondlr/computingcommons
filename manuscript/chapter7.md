@@ -10,9 +10,13 @@ The blockchain can help bring forth these alternate realities as legitimate aven
 
 ## Digital Money
 
-The first, important way in which Bitcoin can influence alternate realities is by using it as a currency in those realities. By name, "digital" is both usable in the physical world as well is in the "virtual".
+The first, important way in which Bitcoin can influence alternate realities is by using it as a currency in those realities. By name, "digital" is both usable in the physical world as well is in the "virtual". With Bitcoin, its value as a currency exists both in the real world and in any virtual world. You can send money to others in this ledger through your phone when paying a merchant as equally you could if you pay an NPC for his new mail hauberk. It gets interesting on several levels. The first if you just simply replace a virtual world's currency for it. This means that the developer is no longer in control of monetary supply, but it means you can earn BTC from within the game. You challenge another player to a duel and if you both believe that the world creator (the developer) is a responsible mediator (that you both can trust), you can easily wager on these. If you are good, you can earn your keep, and within 5 minutes pop down to a corner and spend that exact same amount of Bitcoin you just earned buying yourself a nice juicy pie and some soda.
 
-((Section on Bitcoin as not just state-less money, but reality-less money. A MMO could have just Bitcoin. Segway into issues (still somewhat centralized). Segway into fully decentralized realities)
+This however assumes a relatively normal game world that is not based on the premise that its currency is portable into the real world. When that is a given, different dynamics start to change. You could think in the vain of Project Entropia or Second Life, where you could money generating businesses & property. As a developer of the game, you could build new areas and sell them at auction to players which in turn can rent them out and sell wares from these stores. If you want, as a world developer, you could even consider that in order to play the game, each transaction within the game (from an internal wallet) has a small fee (world tax), that goes towards more development and server costs.
+
+The issue with this setup though is that it is only the money that is tracked by the game, nothing else. As a player in this alternate world, you are beholden to the game and its intricacies to properly mediate the experience. If there is a bug or an exploit, it can be a pretty serious issue. There is no way for the company to reimburse you if you lost due to a bad connection. The options for repudiation is little, since the money is not. In some cases, the world developer might even be unrecognisably nefarious: purposefully creating negligible glitches in their favour.
+
+However, we know that we can property management, organizations, law and so forth in a decentralized manner. It is possible to start going into a deeper rabbit hole: creating a whole reality that is decentralized. There is no middle-man anywhere.
 
 ## Blockchains as Reality Mediators
 
