@@ -1,3 +1,7 @@
+# A Work in Progress
+
+A big disclaimer. This book is still a work in progress. You will find disjointed thoughts and parts where I make notes for myself ((such as this, using double brackets)). Some chapters aren't done, and there's gaps that still need to be filled. Even in this disjointed manner, it is still readable, so if you do indeed choose to venture through it at this early stage, thank you. This book is being lean published online. You are welcome to submit feedback & comments. Please do. Enjoy.
+
 # Prologue
 
 When I was doing research for my masters degree into information overload, one of my favourite papers was George Miller's article on the number 7: looking into the limits on our capacity to process information. It was written in 1956 and it starts as follows:

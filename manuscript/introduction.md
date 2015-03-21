@@ -1,3 +1,7 @@
+# A Work in Progress
+
+A big disclaimer. This book is still a work in progress. You will find disjointed thoughts and parts where I make notes for myself ((such as this, using double brackets)).
+
 # Introduction
   
 "It's like a big spreadsheet". Susan Athey, Stanford Professor, describing Bitcoin in a TV insert on [aimed at kids](http://www.youtube.com/watch?v=9KJVyATgtrE).
