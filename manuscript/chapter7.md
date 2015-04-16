@@ -40,4 +40,6 @@ This could serve very useful in a decentralized augmented reality application. I
 
 ## Conclusion
 
+Currently, when you look at blockchain technology, it is nowhere near the potential for it to host things like Quake or Doom on it. It's a basis for "state logic" that's relevant to decentralize. Even at this early scale, it can have quite profound effects on us and society. As mentioned in the beginning, when we look at games, we do to some extent imagine them as alternate pockets of reality.
+
 ((Effect on real life. Massive cascading effects. Mention Balaji's comments about cloud countries. Mention Neal Stephenson Phyles))
