@@ -14,9 +14,11 @@ I see the blockchain helping 2 ways: establishing consensus & helping with indep
 
 One of my favourite quotes in this space, is when Richard Brown (from IBM) said in an interview: "On the blockchain, no one knows you are a fridge". It's funny and correctly describes what becomes possible. In the future, we might very describe humanity (and its relationship to technology) in terms of pre-blockchain and post-blockchain, simply for one reason. It became not only for us humans to transact without a 3rd-party, but it also became possible for a machine to transact with another machine without a 3rd-party, and more importantly without the requirement of a human in the process.
 
+The same systems we use to post goods and services for sale, such as OpenBazaar can be programmed by machines to use as they wish as well. They can choose their own arbiters and notaries and in that manner sell goods and services to each other in a low-trust manner. This is huge, since it allows for these agents to flourish with simple goals that could lead to very interesting and complex behaviour. For example, there's this notion of a program that delivers services in return for Bitcoin. Once it has enough cashflow, it automatically scales itself out by paying its hosting provider for another instance. One of the issues of this is of course, is that the machine/program must somehow know that it will get the service it asks and will pay for. The same systems we could use to build decentralized reputation can be used to enforce [benevolent behaviour in AI](http://futurememes.blogspot.com/2014/11/blockchain-ai-consensus-as-mechanism-to.html).
+
 ### Consensus
 
-((Talk about article on "friendly" AI))
+The classic idea of an AI that goes awry is one where its own feedback loops does not stop: the proverbial nanobots that don't stop consuming. For AI to roam free on its own volition its actions, it must play by the rules. Other machines and humans act as arbiters of good behaviour for each other. Since a blockchain also keeps history (from which reputation and good behaviour is inferred), new AI could even be trained before-hand to understand what it entails.
 
 ## Narrow AI
 

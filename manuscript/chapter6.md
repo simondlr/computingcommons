@@ -1,1 +1,1 @@
-# Decentralize Law
+# Decentralized Law
