@@ -18,11 +18,11 @@ The same systems we use to post goods and services for sale, such as OpenBazaar 
 
 ### Consensus
 
-The classic idea of an AI that goes awry is one where its own feedback loops does not stop: the proverbial nanobots that don't stop consuming. For AI to roam free on its own volition its actions, it must play by the rules. Other machines and humans act as arbiters of good behaviour for each other. Since a blockchain also keeps history (from which reputation and good behaviour is inferred), new AI could even be trained before-hand to understand what it entails.
+The classic idea of an AI that goes awry is one where its own feedback loops does not stop: the proverbial nanobots that don't stop consuming. For AI to roam free on its own volition its actions, it must play by the rules. Other machines and humans act as arbiters of good behaviour for each other. Since a blockchain also keeps history (from which reputation and good behaviour is inferred), new AI could even be trained before-hand to understand what it entails: essentially a training set to work with that will over time only get better and more nuanced.
 
 ## Narrow AI
 
-Simple agents with simple rules, acting indepdently & autonomously.
+The most basic form of AI that a blockchain helps, is AI that follows simple rules, built for specific purposes. As described above, it acts indepedently & autonomously. What sets this class of AI apart from simply a program is that it has an additional facet that propels itself behind just delivering a service. A server that runs a website is "autonomous" in the sense that it just sits there and serves websites until it is eventually turned off. Using a public blockchain simultaneously makes it have (relative) permanence (it exists as long as the network exists) and it is automated. Some platforms such as Ethereum plan to implement even the capability for state changes to be stored into the future. Throwing several narrow agents together and you can see what Michael Jordan means: an organic growing network of locally acting and automated agents.
 
 ((insert random darknet shopper here))
 
