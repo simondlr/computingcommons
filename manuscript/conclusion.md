@@ -42,6 +42,14 @@ Like agriculture, sewage systems, the automobile, the pc & the internet, we’ve
 
 As you can see, inevitably, new technology to some extent, creates more empathy, because we rely on technology to intermediate the parts we didn't trust in the past: allowing us to form larger societies. A world-wide currency by virtue already has the ideological weight behind it: we have people from all over the world using Bitcoin as their form of value.
 
+## The machines?
+
+(It's also the story of programs/machines)
+
+## The story
+
+(Front-row ticket to one of the most exciting experiments in history)
+
 ((Important theme: technology's other story has always been about extending identity towards increased empathy. Blockchains are global technologies, beating systemic entropy of maintaining something like it -> leading to increase empathy))
 
 ((Don't forget about the machines. Almost all benefits it creates for us, is created for autonomous ones))
