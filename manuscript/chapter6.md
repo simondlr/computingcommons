@@ -4,10 +4,16 @@ Collectively, we all agree to, that some people have the right to put others beh
 
 If there is a breach of contract, it is eventually taken to court. Eventually defying a court order, could eventually lead to incarceration. As such, the ultimate "arbiter" is force. For the most part, people voluntarily opt into this system, because even though force is eventually used to get a person into prison, it's an agreed upon social norm in various jurisdictions. In certain circumstances, we accept the potential fallbility of such a system: the potential for this authority to be misused, in return that we know that it is used ultimately for the "greater good". Over time, if this gets abused, a society can reach breaking point and revolt against this status quo, to once again make it fair. That's the hope at least.
 
+As such, most agreements which require interacting beyond the established trust relationships we have, require a direct arbiter we both agree upon. This layer of arbiters eventually cascade up to the highest one: the law of the country. It's obviously a lot more complex than this. What is apparent from the current status quo that we choose to live with is that we accept force and violence to be the ultimate deterrers to staying with an agreement: it is punishment for defecting. Secondly, because of this, the use of arbiters gravitate towards a pyramid infrastructure. It is easier for us to have one police, than several.
 
+Hypothetically, we could have a mutual friend be an arbiter in the case of a dispute, but the problem comes in when the issue at hand is greater than the friendship and then you are stuck with a scenario where the outcome was negative for everyone involved. There is/was no recourse.
+
+## Code as Law
+
+((quote about code is law)).
 
 (violence vs code)
-(polycentric law)
+(polycentric law => BitNation)
 (the rise of the mass arbiters)
 (reputation systems?)
 (removing the hardware, what then?)
