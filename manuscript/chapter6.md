@@ -12,8 +12,14 @@ Hypothetically, we could have a mutual friend be an arbiter in the case of a dis
 
 ((quote about code is law)).
 
-(violence vs code)
+To a large extent, all the previous chapters explain ways in which a lot of the way we do things can be automated through blockchain technology: we can do finance, property, trade & create organisations without any intermediary. All through these processes we require law to enable them (when not using blockchain mediators). The use of Ricardian contracts in OpenBazaar (for trade). To create a company, we require legal documents to enforce shares & ownership structures. We rely on the state to keep record of land & property and appeal to them if it has been violated. It's because ultimately (and this is grossly oversimplified), we can't enforce things besides using paper (or databases these days) & people. Combining all these useful self-enforcing code will definitely lead to a lot of what law (especially civil law) is supposed to provide to society, meaningless. Law will be replace by code. Not all law will be, but a lot of it will. It will also provide empowerment & agency to a lot of people who can't necessarily have access to lawyers to create binding contracts.
+
+## Smarts Contract as Law
+
+(what is different?)
+
 (polycentric law => BitNation)
-(the rise of the mass arbiters)
+(the rise of the mass arbiters => a normal person has the power to enforce. Divorcining judgement & enforcement, separating it)
 (reputation systems?)
 (removing the hardware, what then?)
+(law won't dissappear. In fact it will be bolstered by programmer-lawyer hybrids)
