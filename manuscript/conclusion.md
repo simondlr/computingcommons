@@ -1,4 +1,4 @@
-## Conclusion
+# Conclusion
 
 One part of the story of technology has always been one of extending our empathy. We don't necessarily always intend for it. But when we look back at our history, technology has always allowed us to remove trust that is required to interact other humans. In other words, it makes it easier to connect with others.
 
