@@ -26,8 +26,11 @@ However, if ambiguity is not an issue, then it begs the question why any additio
 
 In that manner, being able to enforce, and bringing that ability to the people is a powerful idea. In other words, as the history of technology has shown, it democratizes access. In this case, it democratizes access to enforcing rules (through math & code). Instead of opting for traditional pyramid power structures, we can opt for a more peer to peer law system. This could give rise to a mass system of arbiters. As previously mentioned, services like Bitrated and OpenBazaar allow anyone to be an arbiter. It could be the case right now, however, not everyone has the authority to definitively be one. If any 2 people believe that a specific person is the best authority to be an arbiter on a specific topic, then they can choose to do so. The current option right now is to believe that the state knows enough to be the best arbiter on every issue.
 
-(the rise of the mass arbiters => a normal person has the power to enforce. Divorcining judgement & enforcement, separating it)
-(polycentric law => BitNation)
+The fact that we can use these systems to create a democratization of arbiters is an exciting prospect. Besides just enabling its supposed purposes (eg trade), it also drastically changes the reliance on overarching systems of law. If I buy a PlayStation online, then both participants in the exchange will want an arbiter who they know will be partial, but most importantly understand the domain. In this scenario, they can find a person who is an expert in gaming consoles, and has a proven track record of resolving disputes in this space. Previously they could not enforce rulings, but now they can.
+
+Being an arbiter with domain knowledge that can enforce rules is just one potential example where a person is suddenly imbued with additional power, that in effect, was the domain of states. A 10-year old kid in school can now create a currency that is more secure against counterfeiting than the biggest fiat currencies in the world.
+
+(towards polycentric law => BitNation)
 
 (state in a box, Vinay)
 
