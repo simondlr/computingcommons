@@ -10,15 +10,43 @@ When I researched the consensus on the terminology it seems there weren't any. T
 
 ## Rethinking Organisations
 
-A (very simplified) description of organisation is 'an entity that has a collective goal and is linked to an external environment' (thanks Wikipedia). Through collaboration, the sum becomes greater than the parts towards reach a specific goal. An organsation can be simple, such as a local society or a government. In different jurisdctions, a company or corporation is basically the same thing (for scope of this book), and essentially a variation of an organisation that is a legal person and has additional legislative rights that are granted to it.
+A (very simplified) description of organisation is 'an entity that has a collective goal and is linked to an external environment' (thanks Wikipedia). Through collaboration, the sum becomes greater than the parts towards reaching a specific goal. An organisation can be simple, such as a local society or a government. In different jurisdctions, a company or corporation is basically the same thing (for scope of this book), and essentially a variation of an organisation that is a legal person and has additional legislative rights that are granted to it.
 
-Traditionally, organisations, if they wanted to enact change, they would require some legal and institutional aid. For example, if you want to accept other people's money as investment (as profit or non-profit), you should be incorporated. If you want a bank account, you have to be incorporated in a legal juridsction. If you want to have shares in a company, you'll require the strength of the legal system to enfore it, and so forth. At almost every step of the way, you'll want some kind of legal aid (even for something like a fraternal organisation for contract law). This is fine, and not inherently bad, and in some jurisdictions it is regarded as necessary administration to afford these aids. In other cases, there might be plenty of red tape and bureacracy to make this happen, but people still go through it if their desire is big enough, since there is no alternative.
+Traditionally, organisations, if they wanted to enact change, they would require some legal and institutional aid. For example, if you want to accept other people's money as investment (as profit or non-profit), you would have to be incorporated. If you want a bank account, you have to be incorporated in a legal juridsction. If you want to have shares in a company, you'll require the strength of the legal system to enfore it, and so forth. At almost every step of the way, you'll want some kind of legal aid (even for something like a fraternal organisation for contract law). This is fine, and not inherently bad, and in some jurisdictions it is regarded as necessary administration to afford these aids. In other cases, there might be plenty of red tape and bureacracy to make this happen, but people still go through it if their desire is big enough, since there is no alternative.
 
-The blockchain helps with organising in a few ways. The first is that it becomes to possible to build and secure the internal processes of an organisation that was usually the domain of a state to enforce. As described in chapter 2, it is possible to verifiably issue something that resembles shares without legal requirements. This means you already have the possibility to create an organisation that natively spans the globe. It's not a hub & spoke multi-national. It's a distributed supra-national organisation. Technically, there needs to be no restriction on who gets to invest. While there is a "interest in the public safety" argument against each company doing an IPO at initiation, this is possible with the blockchain. It is difficult to justify the effort to allow someone to invest $1 into your company, and in some cases it is not even allowed.
+The blockchain helps with organising in a few ways. The first is that it becomes possible to build and secure the internal processes of an organisation that was usually the domain of a state to enforce (more on law in chapter 6). As described in chapter 2, it is possible to verifiably issue something that resembles shares without legal requirements. This means you already have the possibility to create an organisation that natively spans the globe. It's not a hub & spoke multi-national. It's a distributed supra-national organisation. Technically, there needs to be no restriction on who gets to invest. While there is a "interest in the public safety" argument against each company doing an IPO at initiation, this is possible with the blockchain. It is difficult to justify the effort to allow someone to invest $1 into your company, and in some cases it is not even allowed.
 
 The second step revolves around using the blockchain to bake in business processes. A lot of our business processes are already digital, and most of it can be put into a blockhain. The reasons why you would do this, is as follows: 1) you have a trail of history. A blockchain contains a trace of how its information has changed since inception. And secondly, there is value in having unforgeable chain of events that can't be easily reversed. This might not make sense in terms of using a fully public blockchain like Bitcoin, since it will be expensive and not entirely useful to run several business processes over it. However, the design of a blockchain can be changed to have these beneficial features. Companies such as Eris Industries, which I will touch upon later, helps with regards to this.
 
 Spawning from capturing business processes through smart contracts on a blockchain, you can additionally capture the transaction trail as well (as detailed in Chapter 1). Combining all these parts, creates a new framework for managing organisations that has decent enough clout to not require access to jurisdictional support. It's not saying that jurisdictional support is useful, but it does make it possible to bootstrap natural world-wide organisations, or even start local organisations. It can either be fully supra-national, or it could use some of the automated features & security that a blockchain provides.
+
+((try to incorporate other's ideas as quotes/comments into the following sections))
+
+## Degrees of Decentralization & Autonomy
+
+((Current organisation are not decentralized & not autonomous))
+((decentralization vs distributed. How many humans are required))
+((Swarm's Distributed Collaborative Organisations))
+((Florian's comments from Github))
+
+## Forming DDOs
+
+## Token DDOs
+
+(("appcoins", normal equity systems))
+
+## Non-token DDOs
+
+((Boardroom. DOUG))
+
+## Incentive Design
+
+((Trying token of value (equity/currency) directly to wealth/value creation. ie like code markets))
+((CPDAOs & basic intro to deodands))
+
+## Conclusion
+
+((Moving faster. Idea -> Start-up in one swoop. Jesse Grushack. Quirky for Blockchain. Agency. Empowering))
 
 --OLD STUFF. To be refactored--
 
