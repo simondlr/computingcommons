@@ -24,6 +24,12 @@ Spawning from capturing business processes through smart contracts on a blockcha
 
 ## Degrees of Decentralization & Autonomy
 
+Currently, by definition, an organisation comprises the requirement of people. If you take out that requirement then it could be described as an "entity", comprised of other "entities", that works towards a collective goal. Arguably, if we assume that an organisation needs a goal, then all entities within it needs to work towards it. The entities might not be aware of that goal, but they must either globally ((elaborate)) or locally ((elaborate)) work so that when you look at the system from a more holistic perspective there is a clear delineation between what is in the organisation and what is the external environment.
+
+((decentralized in terms of systems design vs decentralized in infrastructure))
+
+((revise))When you look at the definitions, decentralized means, a system with no center or locus. All actors in all processes only work from local information, and that is all it needs. With some simple rules, the system functions together. Depending on whom you ask, distributed can mean different things in different contexts. Some define it as meaning that it is a system that looks more like a hub & spoke. The spokes can come and go, but the hub or the head is still required. Either way, you get a spectrum where define how many people are required for a system to run.
+
 ((Current organisation are not decentralized & not autonomous))
 ((decentralization vs distributed. How many humans are required))
 ((Swarm's Distributed Collaborative Organisations))
