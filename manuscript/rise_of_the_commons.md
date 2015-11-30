@@ -27,4 +27,6 @@ If we take a look at history, and how we got here, it’s about continuously aut
 
 Thankfully, there is such a technology that holds that promise: the blockchain.
 
-The Computing Commons
+The Commons
+
+The "commons" has an interesting history. It is normally defined as "cultural & natural resources accessible to all members of society". "They are held in common, not owned privately". Yes, this definition was taken from one of humanity's greatest cultural common goods: Wikipedia itself.
