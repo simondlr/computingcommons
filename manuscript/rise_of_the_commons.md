@@ -9,7 +9,7 @@ ise of the Computing Commons
 - The state of things.
 - Collectively knowing the end result of computation.
 
-Something is afoot. You are, probably. You are either standing, sitting or lying down as you read this sentence. For those attempting to defy gravity, you might also be flying, hanging or just floating about. 
+Something is afoot. You are, probably. You are either standing, sitting or lying down as you read this sentence. For those attempting to defy gravity, you might also be flying, hanging or just floating about.
 
 In all these scenarios, there’s plenty of things taken for granted, for you to assume your chosen position. Standing on a floor. Sitting on a chair. Lying on a bed. Flying in a plane. Hanging from a bungee rope (for those times you just really want to read an article after you’ve flushed your body with adrenaline).
 
@@ -30,3 +30,52 @@ Thankfully, there is such a technology that holds that promise: the blockchain.
 The Commons
 
 The "commons" has an interesting history. It is normally defined as "cultural & natural resources accessible to all members of society". "They are held in common, not owned privately". Yes, this definition was taken from one of humanity's greatest cultural common goods: Wikipedia itself.
+
+---
+(this section atm is purely to write down some thoughts)
+Some notes on how the commons disappeared. Mostly taken from Jeremy Rifkin's excellent Zero Marginal Cost Society.
+
+Feudal economy = subsistence communication/energy matrix.  
+Thousands of isolate localities.  
+Feudal landlords leased their land to peasant farmers under tenancy agreements.  
+Freeholders vs leaseholders (lasts about 3 lifetimes)  
+Tenancy agreements = give me part of your harvest/till my fields as well/tax  
+Peasants worked in commons (aggregated land)  
+Land/property were God's creation -> the great chain of Being.  
+property divvied up into sphere's of responsibility conforming to a fixed code of proprietary obligations.  
+"no one had absolute lordship over land"  
+
+Change came in Tudor England. Communal land enclosed to create private property. Exchane in marketplaces (through license of king, parliament or join agreement of village commons).  
+Between 16th & early 19th centry.  
+Peasants were uprooted -> labor power became available for hire.  
+
+Feudal order was undermined by rising food prices (due to growth of urband population). Led to problems as land prices was fixed at pre-inflationary rates. Incipient textile industry -> more lucrative to close land & raise sheep instead.  
+
+2nd wave of enclosures (1760 - 1840: first industrial revolution). More food demand -> more enclosures.  
+Property rights went from conditional rights to exclusive ownership.  
+People belonged to the land, now land belonged to individual people.  
+One's word guaranteed trustworthiness of exchange before common law. Law had to evolve to allow private property exchange.  
+Anonymous market where strangers are exchanging goods & services would not be possible without an enforceable legal code.
+Requires police & courts.  
+
+Rifkin's argument: print (communication) & wind (energy) led to market economy.  
+Towns erected their own water mills, a competing source of power to the lord.  
+First windmill in Europe -> Yorkshire, England 1185.  
+Wind is everywhere, not bound to royal lands.  
+Windmill become known as the "common'ers mill"  
+Fulling mills -> more productive to raise sheep.  
+
+Print removed subjective element. Stored memory and systemized retrieval of information.  
+Print standardized maps.  
+Print enabled contracts. Feudal economy relied on spoken word.  
+Auditors spoke the financial information out loud to verify authenticity of the tx.  
+Modern bookkeeping.  
+
+"Free cities" - Serfs could escape to other jurisdictions.  
+Guilds sprung up (defined by trade). Not full markets. A "just price".  
+Merchants began to bypass guilds.  
+Manufacturers banned together with merchants. -> national markets, free trade, lessen restrictions on labour mobility, enforcement of contracts, etc.  
+Merchants aligned with monarchy on. Foreign over domestic trade.  
+First voters were men of property.  
+
+Then the next chapter goes into rise of capitalism (will decide whether to include or not.)  
