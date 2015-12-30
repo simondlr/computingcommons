@@ -27,7 +27,7 @@ If we take a look at history, and how we got here, it’s about continuously aut
 
 Thankfully, there is such a technology that holds that promise: the blockchain. It ushers in the computing commons.
 
-The Commons
+##The Commons
 
 Before explaining just what exactly the computing commons is, it would help to explain the context of why the commons initially disappeared, how we created capitalism and how the rebirth of a new commons are upon us. There's been a lot written about this. Jeremy Rifkin's excellent Zero Marginal Cost Society gives and great breakdown on this (where most of this summary has been borrowed from).
 
@@ -43,53 +43,50 @@ With growing enclosures, people exchanged lands simply on how trustworthy they w
 
 Combined with inventions such as the windmill & printing press, it eventually gave rise to the beginnings of the market economy and reduction of feudal power. Windmills using wind, could produce benefits from using the air (not able to claimed upon by the lord) & the printing press allowed commoners to exchange with each by allowing stored memory & written contracts. The first so-called "free cities" sprung up where the commoners were empowered enough to compete with feudal jurisdictions. Interestingly, it was said that if a serf could escape to a free city and remain there for more than a year ((check)), they successfully escaped, and moved jurisdictions to now be a free man.
 
+((insert small part about rise of capitalism as we know it. 2nd industrial revolution))
 
-((make note about the benefits of closing things down. Repeated in biology (cells) & society (organisations). It's important to note that it's all about opportunity & marginal cost. If all costs were reduced to zero or near marginal, closing down becomes worst outcome. Substrate. Blockchain as trust commons? Empowering everything. Imbuing. Enclosure of the hardware commons?))
+##The Membranes of the Commons
+
+Over time, as you can see, as ideas about the world changed (no more "chain of being") & as human populations grew, various incentives aligned to enclose the commons we once shared. To some extent, we mourn this loss. We would like to say that no human should be denied access to land. Refugees, running away from bloody wars, run into imaginary lines we drew on the Earth, denying them the right of searching for a better environment: for their future & their children.
+
+On the other hand, the incentive structures that was built on the idea of sovereignty, private ownership & the market, catapulted society to where we are today. By some accounts, it was necessary if we believe that providing for a growing population is a moral imperative. A feudal economy with a commons ownership might have always existed if humanity's Malthusian libido was curtailed.
+
+ In many ways, we wonder if it is in any way possible to have a society of 7 billion people otherwise? Arguably it can be said that the social costs involved to manage a natural commons stretching 7 billion people is just not possible with todays' technology. We might invent this into the future, and chances are we will (as explained in later chapters). For now, there's an understanding that the market could only occur if we allowed encapsulation to occur in the first place. We take it for granted now, but by some definitions, as a meme, the market is in fact a commons on its own, supported by law, private property & inventions such as double-entry accounting & the joint stock corporation.
+
+ There seems to be a constant interplay between allowing actors in a system to roam, versus closing it up. In some circumstances, it is indeed useful for actors in a complex to have their feedback loops curtailed. A soup of chaos, following only randomness, won't be able to congeal to allow the St. Grada Familia.
+
+ We see clues from different disciplines that closing up one 'commons' leads to a new substrate of complexity. You wouldn't be here, reading this, if cell membranes didn't close up to house the organelles & cytosol. The birth of the cell marked the change in history from pre-biotic chemistry to partitioned units resembling modern cells. Cells, having enclosed chemistry, became simple replicators, providing protection from the outside & the confinement of biological activity inside it. It's uncertain how the first cells were formed. Some molecules self-assemble into droplets that enclose watery solutions inside and provide different chemical environments inside it, versus the outside. These simple spheres are called 'protobionts'. Whilst not sufficient to explain the complicated membranes that exist today, processes involved could've lead to the evolution of the first cell & its membranes. What is important to keep in mind here that these organisms created new complexity by the fact it got enclosed. Keeping the internal components together, means that as a whole, the organism with its membrane, is able to not only survive, but provide a new a substrate: the existence of much more complicated systems such as life itself.
+
+ When you see this pattern, it starts popping up in other disciplines. Ronald Coase, explains the existence of firms due to the fact that transaction costs in a full market reaches an inflection where it is easier & better in the face of asymmetric information, to rather organise as a firm. Memetically, the firm is the cell membrane around an organisation's desire to fulfill a certain goal. The people, the processes, the tools (such as double-entry accounting & equity) is the internal cytoplasm.
+
+The membranes around property, forced the creation of complex law systems, further creating ever deeper levels of encapsulation. Once one part becomes closed, it assumes that the layer inside it functions fine. A wall is only as good as the system it protects. Some theories about cell creation involves the idea of endosymbiosis. The internal parts of a cell were once independent organisms themselves. When banded together, hiding behind the first primitive cell membranes, more efficient versions evolved, causing these internal parts to shed generality for specificity.
+
+Land, forming an important part of the market, is its own enclosed cell. Its internal processes once required it to house generality: people, homes, and different varieties of produce. New tools, technologies and processes start to replace these internal functions to specificity. Large tracts only grown with complicated & automated machines for only one purpose.
+
+Similarly, in the market as a whole, starting with the fall of the feudal economy and the rise of the market economy, labour became more and more specialised. As humans, forced by the (inevitable?) unfolding of more complexity, the substrates grew ahead of us. We are relegated to perform more & more unique functions within the larger whole. As cliche as it sounds: we've become cogs in the wheel.
+
+It is not meant in a negative way. We are the richest society in history. ((x amount don't live in poverty anymore)). Continuously, all parts are getting relegated to more specific functions. We don't have to till our own lands anymore. We just get accept the Kingly nature we have landed ourselves in: buying the latest VR headset for Christmas.
+
+##Technology & the Closing of the Market Commons
+
+((rewrite. see end of paragraph))
+
+As time goes on, we see that technology is increasingly being swapped in to replace what roles we fulfill. Due to our capabilities as generalists, we can continue onwards, slotting into new firms, into new roles. From here on out, we see an inevitability arise: technological unemployment.
+
+If we assume the same pattern, then at different levels of complexity, we partake currently partake as separate forces. The environment is capitalism, our membranes are our organisations and we compete & combine.
+
+If we extrapolate on this trend, are there further questions we can ask. Could new membranes form under new auspices? And what does that mean?
+
+We sometimes have this utopia in our head, that some time in the future, we will all be able to live peacefully next to each other. We've solved all issues of scarcity and live in an era of abundance. We can dedicate our time to whatever we want: sex, drugs or self-actualisation (or all of the above). We also often wonder how we get there. Often these futures seem to indicate we have let go of the shackles of that which got us here. It's an abundance, and often technology & machine production is often used as a reason. "It will do all our bidding and we can live like Kings". Whilst true to some extent, what I feel is often left out is that it is not just physical improvement towards abundance, but rather that we used technology to solve all the internal processes required in a capitalist system. There is no more margins or arbitration left for humans to do.
+
+We solve the most efficient routes for delivery. We solve production & manufacturing costs. We solving pricing issues (internal & external), etc. What this entails is that we move towards a society such as what Jeremy Rifkin's describes: where is everything is zero marginal cost.
+
+As humans, we are getting kicked out. We are slow & can't possibly fathom as much as technology can achieve. Instead of firms comprising
+
+((is this the best comparison? Implying that the market itself gets enclosed feels wrong. Since enclosures implies solving costs to work together and then competing in a new arena. Enclosed markets aren't competing against other enclosed markets... That in a way is nation states?? A potential way to describe it as that once we enclose the requirement of markets, we invent now only a competition of information/memes... Still feels wrong because, based on the same pattern, enclosing a market implies that the actors in it band together due to transaction costs... So, perhaps rewrite the conclusion))
+
+##Utopia
+
+((not the absence of what we have. Rather, that everything beneath us been solved.))
+
 ---
-(this section atm is purely to write down some thoughts)
-Some notes on how the commons disappeared. Mostly taken from Jeremy Rifkin's excellent Zero Marginal Cost Society.
-
-Feudal economy = subsistence communication/energy matrix.  
-Thousands of isolate localities.  
-Feudal landlords leased their land to peasant farmers under tenancy agreements.  
-Freeholders vs leaseholders (lasts about 3 lifetimes)  
-Tenancy agreements = give me part of your harvest/till my fields as well/tax  
-Peasants worked in commons (aggregated land)  
-Land/property were God's creation -> the great chain of Being.  
-property divvied up into sphere's of responsibility conforming to a fixed code of proprietary obligations.  
-"no one had absolute lordship over land"  
-
-Change came in Tudor England. Communal land enclosed to create private property. Exchane in marketplaces (through license of king, parliament or join agreement of village commons).  
-Between 16th & early 19th centry.  
-Peasants were uprooted -> labor power became available for hire.  
-
-Feudal order was undermined by rising food prices (due to growth of urband population). Led to problems as land prices was fixed at pre-inflationary rates. Incipient textile industry -> more lucrative to close land & raise sheep instead.  
-
-2nd wave of enclosures (1760 - 1840: first industrial revolution). More food demand -> more enclosures.  
-Property rights went from conditional rights to exclusive ownership.  
-People belonged to the land, now land belonged to individual people.  
-One's word guaranteed trustworthiness of exchange before common law. Law had to evolve to allow private property exchange.  
-Anonymous market where strangers are exchanging goods & services would not be possible without an enforceable legal code.
-Requires police & courts.  
-
-Rifkin's argument: print (communication) & wind (energy) led to market economy.  
-Towns erected their own water mills, a competing source of power to the lord.  
-First windmill in Europe -> Yorkshire, England 1185.  
-Wind is everywhere, not bound to royal lands.  
-Windmill become known as the "common'ers mill"  
-Fulling mills -> more productive to raise sheep.  
-
-Print removed subjective element. Stored memory and systemized retrieval of information.  
-Print standardized maps.  
-Print enabled contracts. Feudal economy relied on spoken word.  
-Auditors spoke the financial information out loud to verify authenticity of the tx.  
-Modern bookkeeping.  
-
-"Free cities" - Serfs could escape to other jurisdictions.  
-Guilds sprung up (defined by trade). Not full markets. A "just price".  
-Merchants began to bypass guilds.  
-Manufacturers banned together with merchants. -> national markets, free trade, lessen restrictions on labour mobility, enforcement of contracts, etc.  
-Merchants aligned with monarchy on. Foreign over domestic trade.  
-First voters were men of property.  
-
-Then the next chapter goes into rise of capitalism (will decide whether to include or not.)  
