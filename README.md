@@ -13,23 +13,17 @@ During the writing proces, [leanpub](https://leanpub.com/theblockchain) will be 
 
 The themes are subject to change, but will currently cover the following:
 
-The rise of the blockchain & the computing commons  
-(introduction)
+Blockchains & The Rise of a Computing Commons (intro & context)
 
-Free, Instant & Transparent Finance  
-(what does a world look like where all finance is free & instant? And you have capability of continuous audit & transparency?)
-
-Infinite Scarcity   
-(what does a world look like where we can assign automatic value to all networks? Share & unlock all capital? Abundance through measuring?)
+Infinite Scarcity (assigning value to all networks & management of global capital)
 
 The Information Markets   
 (A chapter solely on prediction markets. What happens if we allow censorship-resistant betting on everything? Could we model externalities? Would we recreate a map of reality in the digital?)
 
-The Auconomy   
-(Autonomous Trade, Autonomous Organisations & Autonomous Agents. The Decentralized Sensor AI. Deodands.)
-
 Lex Cryptographia   
 (What happens if you have cryptography enforcing contracts? Smart property? Appeal to authority disappears only for very rare scenarios?)
+
+The Agents: A Language For Programs
 
 Transcension   
 (Could we model state logic of an alternate reality on a blockchain? Will it provide cascading empathy if other realities are better than the current one? VR & Blockchains?)
@@ -50,4 +44,4 @@ This book is written under [Attribution-NonCommercial-ShareAlike 4.0 Internation
 ## Donate
 
 You can donate BTC here if you want to do so: 1CSCsyAUrsYvHBZFoBWk3AY7cbtm6RnmJc.  
-Ether here: 0x171ca02a8b6d62bf4ca47e906914079861972cb2.
+Ether here: 0x16893e10b99A59afd2C60331E0B49241d4d4d7cC.
