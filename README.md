@@ -1,9 +1,9 @@
-# The Computing Commons:
-## Imagining the future of society empowered through blockchain technology.
+# The Computing Commons (tentative title)
+## Automation through blockchain technology.
 
-The blockchain: it is the smart, distributed ledger that allows any participant to come to consensus on the state of information without requiring an intermediary. It’s been called “consensus computers” & “trust machines”. They come in many forms (Bitcoin, Ethereum & private ones). Whatever platform succeeds (one or many) will leave society with a vast, distributed, public computer. It’s memory will be our shared, unchangeable historical record, and its power will allow us to forge new relationships with each other and with our technology. It is giving rise to the computing commons.
+The blockchain: it is the smart, distributed ledger that allows any participant to come to consensus on the state of information without requiring an intermediary. It’s been called “consensus computers” & “trust machines”. They come in many forms (Bitcoin, Ethereum & private ones). Whatever platform succeeds (one or many) will leave society with a vast, distributed, public computer. It’s memory will be our shared, unchangeable historical record, and its power will allow us to forge new relationships with each other and with our technology.
 
-This book extends onwards from the previous book I was writing about the blockchain (which can be found in the “old” folder, still available to read). The narrative has changed into a much grander vision. The blockchain is the tool. For each overarching theme, a long-form Medium post will be published. Each chapter will also be published as a $2 e-book. Once each theme is done, the whole book will be edited & revised into a full e-book.
+This book extends onwards from the previous book I was writing about the blockchain (which can be found in the “old” folder, still available to read). The narrative has changed into a much grander vision.
 
 ## Leanpub.
 
@@ -13,23 +13,19 @@ During the writing proces, [leanpub](https://leanpub.com/theblockchain) will be 
 
 The themes are subject to change, but will currently cover the following:
 
-Blockchains & The Rise of a Computing Commons (intro & context)
+Blockchains & The Rise of The Automation of Truth (intro & context)
 
-Infinite Scarcity (assigning value to all networks & management of global capital)
+The Agents. Automating Programs & Empowering them.
 
-The Information Markets   
-(A chapter solely on prediction markets. What happens if we allow censorship-resistant betting on everything? Could we model externalities? Would we recreate a map of reality in the digital?)
+Automating Organisations: Infinite Scarcity
 
-Lex Cryptographia   
-(What happens if you have cryptography enforcing contracts? Smart property? Appeal to authority disappears only for very rare scenarios?)
+Automating Markets: Predictions, Graphs & Abundance
 
-The Agents: A Language For Programs
+Automating Law: Arbitration & Lex Cryptographia   
 
-Transcension   
-(Could we model state logic of an alternate reality on a blockchain? Will it provide cascading empathy if other realities are better than the current one? VR & Blockchains?)
+Automating Reality: Transcension at the edge of black holes.   
 
-The Empathy Machines  
-(Conclusion)
+Conclusion: The Empathy Machines  
 
 ## Contributions.
 

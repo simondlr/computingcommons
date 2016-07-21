@@ -1,3 +1,5 @@
+(to be absorbed/changed)  
+
 Here Come the Agents: An Economic Protocol Language for Programs (beyond humans)
 
 “The creation of language was the first singularity for humans. It changed everything. Life after language was unimaginable to those on the far side before it. - Kevin Kelly”

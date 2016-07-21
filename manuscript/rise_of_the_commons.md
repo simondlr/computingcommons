@@ -1,4 +1,5 @@
-ise of the Computing Commons
+(to be deprecated/removed)  
+Rise of the Computing Commons
 
 ((only talk in past tense as to future proof these essays))
 
