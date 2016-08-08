@@ -1,4 +1,4 @@
-There’s value in being able to know what others know. It’s the reason why humans are the most advanced species on the planet. Our adept use of language resulted in our capability to relay information to others about the world around this: that which was closed off in our mind.
+There’s value in being able to know what others know. It’s the reason why humans are the most advanced species on the planet. Our adept use of language resulted in our capability to relay information to others about the world around this: that which only resided in our minds.
 
 Kevin Kelly famously said: “The creation of language was the first singularity for humans. It changed everything. Life after language was unimaginable to those on the far side before it”.
 
@@ -41,7 +41,30 @@ A tight group of friends can keep tabs on who will get the next round of beers. 
 
 The value of these large open trust ledgers have grown to be so important and large, that the only we can maintain them realistically was to embed them directly into the rest of our society: national currencies, for example, require human institutions to maintain and enforce it. It’s no longer a shell, beans or gold. Any other system would not be fit to the task. It’s “good enough” as it stands, but with a rapidly changing structure to society, due to technology and a rapidly growing population, it’s creaking at the seams.
 
-Technology, in part, allows us to build out new systems that help us to coordinate.
+Technology (especially the digital space), in part, allows us to build out new systems that help us to coordinate at scales we ourselves are not ever capable of. We are already, essentially already cyborgs. Our slow, meatspace minds are augmented by our inventions. Take the web. With all of its machinations, we can communicate and share any information faster than any human ever could. It allowed us to build towards a global society, one of which sees a service like Facebook regularly serving 1.7 billion humans.
 
-((information travelling faster than humans))  
-((truth at the rate of programs))
+The important here is two-fold: 1) that information now travels faster than we can spread them without our technology and 2) that information can spread information as well. In other words, we can program information to send information. There's no human information checker/sender. It's all logic gates and inferences: rapidly sending out information through alleyways of routers across the world.
+
+To realistically imagine a world where we can build out & maintain a global, open, trust ledger, means we have to start thinking about what this looks like if it exists at the scale of programs... meaning, similarly to the web: 1) the we can maintain a ledger faster/better than we can without our technology and 2) that the ledger can be programmed without human involvement.
+
+Luckily, we are the cusp of this: at the rapid rise of our own consensus engines: the blockchain.
+
+#### Distributed Databases, Blockchains, DMMS & truth at the rate of programs
+
+((short distributed database history. basic consensus algos.))
+
+Ultimately, with these distributed databases, one requires a specific set of actors. If one allows anyone to participate, then over time the state of the database can be easily manipulated ((confirm this eventually)). There weren't a way for dynamic membership to occur. For any agent to form part of the game of consensus without permission and without being able to overthrow the consensus with too much ease.
+
+That's at least, until Bitcoin.
+
+((what's Bitcoin. Start, way to have digital money, distributed ledger, economic consensus through proof of work))
+
+((DMMS))
+
+((Deriving at the truth of something, across the world, with dynamic membership
+
+---
+
+Much of the web's innovations came from being able to allow programs to mediate & become information arbiters (from reading/writing as equal citizens in publishing to crawling Google or Facebook's feed ranking algorithms). Now we ask: what happens in a world where our programs can not only reason about the truth & state of things, but co-mediate reality. They become next to humans, also dynamic members in the game of consensus.
+
+Here comes the agents.
