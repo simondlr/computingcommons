@@ -57,11 +57,20 @@ Ultimately, with these distributed databases, one requires a specific set of act
 
 That's at least, until Bitcoin.
 
-((what's Bitcoin. Start, way to have digital money, distributed ledger, economic consensus through proof of work))
+Bitcoin was first shown the world at the end of 2008 and subsequently launched in January 2009. It's was to create p2p, digital cash. In order to do this, a shared ledger keeps track of all the Bitcoin that has been created and all the Bitcoin has been transferred since its inception. Transferring this digital cash from one address to another, is another update/change that's forever enshrined in this distributed & shared ledger.
 
-((DMMS))
+In order to make sure that everyone has the same copy of the ledger, every 10 min, a computational lock is produced that is economically expensive to undo. This lock settles the order of updates that have occurred in the past 10 minutes. To produce this computational lock, a clever combination of math & cryptography is required. A computer is essentially crunching numbers to match an expected output required for the lock. The lock is determined by what updates are to be included. Once the special number is found (constant iteration), the lock is accepted and then broadcasted to the rest of the network. The computer who created the lock first, gets to create new Bitcoin for themselves (according to the rules).
 
-((Deriving at the truth of something, across the world, with dynamic membership
+As soon as this lock is produced, the next lock is up for grabs. ((elaborate more on blocks and longest chains?))
+
+As you can see, this distributed ledger of accounts can come to consensus on the state of it by only relying on having to trust the protocol & the cryptographic proof. Any node can thus join if they are so inclined without asking permission. They can form part of the consensus game if they are willing to expend energy to do so.
+
+Another, more technical way to describe this is what is called a Dynamic-membership Multi-party Signature (DMMS). Without going into too technical detail, the reason why Bitcoin provides a new interesting way to share a history is summed up in this abbreviation: dynamic membership & multi-party. Anyone is allowed to join in working towards this shared & state of events if they agree to the protocol. The way Bitcoin does this is by making it economically infeasible (through laws of physics) to form part of this chain of signatures. Your computer, aiming to help maintain this shared history has prove it did some work to produce the lock on the recent transaction updates.
+
+What's interesting once you  
+
+
+((Deriving at the truth of something, across the world, with dynamic membership))
 
 ---
 
