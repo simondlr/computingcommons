@@ -1,8 +1,4 @@
 
-
-
-(to be absorbed/changed)  
-
 Here Come the Agents: An Economic Protocol Language for Programs (beyond humans)
 
 In 1996, Sergey Brin, Larry Page, Rajeev Motwani & Terry Winograd authored a paper describing the PageRank algorithm, that would eventually underpin Google’s rise to prominence. It made a simple inference. A site & the relevance of its information should be ranked higher if there’s more inbound links relative to the rest of the graph. It is more nuanced and has evolved substantially since then, but the core proposition is solid. Some information is more relevant if it accrues more references. This inherent graph existed before the advent of the web. Literary works had references in them, and one could build and plot this graph with some effort. Realistically, however it would’ve still been cumbersome to yield any useful results from it, and thus we had to rely on top-down systems like the Dewey Decimal system to organise our information.
@@ -15,9 +11,25 @@ However, not much of the world's economic systems are as open. The informational
 
 Some silos aren't fully open, but do allow programmatic access, and one can see how it influences trade. A good example is high-frequency trading. Programs are trading away arbitrage between markets at speeds much faster than humans could. It's a lucrative game where investors have spent millions building satellite connections between New York & Chicago, as well buying up property close to exchanges in order to minimise the lag as much as possible ((corroborate)).
 
-HFT have recently cause controversy, in that, although it introduces efficiencies into the market, it's not ultimately serving the humans in the corporations behind it ((why)). Companies like IEX, for example, introduce forcibly slower transansactions to mitigate around this ((confirm)). It's an intense field and market, in which programs are running amok: playing faster and applying machine learning, ultimately leaving humans behind, except for long-term investing.
+HFT have recently cause controversy, in that, although it introduces efficiencies into the market, it's not ultimately serving the humans in the corporations behind it ((why)). Companies like IEX, for example, introduce forcibly slower transactions to mitigate around this ((confirm)). It's an intense field and market, in which programs are running amok: playing faster and applying machine learning, ultimately leaving humans behind, except for long-term investing.
 
-I would venture and say that HFT is indeed useful, but it's like racing lamborghinis in a courtyard. It's useful in the sense that allowing programs to partake in our world, faster than we can have positive externalities, besides for the program owners.
+I would venture and say that HFT is indeed useful, but it's like racing lamborghinis in a courtyard. It's useful in the sense that allowing programs to partake in our world, faster than we can, can have positive externalities besides for the program owners.
+
+At the moment, to allow programs to flourish and build systems that also benefit us (like traversing the link of the information graph to build search engines), there's a few things that need to fall in place:
+
+1) We need more open database/ledgers/graphs that allow programs free reign to partake in.
+2) We need to allow programs to not only read, but also write to the graphs.
+3) We need to invent new systems where programs can co-mediate our reality with us. This means getting rid of some of the old economic systems.
+
+The first two are likely to happen inevitably.   
+
+Inventing the new economic systems will be perhaps the most interesting past, much as Twitter or Facebook was unfathomable in terms of questioning how we share information. Many new economic models would likely not make sense at first (much like how the economic system behind Bitcoin does not make sense at first).
+
+((smart contracts: executing code without the signatories being involved))
+
+
+
+((agents in organisations, in markets, in law & reality))
 
 --
 
