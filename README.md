@@ -5,10 +5,6 @@ The blockchain: it is the smart, distributed ledger that allows any participant 
 
 This book extends onwards from the previous book I was writing about the blockchain (which can be found in the “old” folder, still available to read). The narrative has changed into a much grander vision.
 
-## Leanpub.
-
-During the writing proces, [leanpub](https://leanpub.com/theblockchain) will be used. The whole WIP book is currently being sold at the price of $9.99.
-
 ## Themes.
 
 The themes are subject to change, but will currently cover the following:
